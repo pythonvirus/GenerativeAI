@@ -1,0 +1,8 @@
+chainlit
+notebook
+ipywidgets
+tqdm
+python-dotenv
+openaipip
+langchain
+langchain_google_genapi
